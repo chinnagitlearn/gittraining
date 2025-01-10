@@ -1,2 +1,2 @@
 # gittraining
-This is readme file with the instructions 
+# This is readme file with the instructions 
